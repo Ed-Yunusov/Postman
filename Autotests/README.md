@@ -1,4 +1,4 @@
-# Автотесты с использованием готовых фрагментов кода (Snippets)
+# [Автотесты](https://github.com/Ed-Yunusov/Postman/blob/main/Autotests/HW_2.postman_collection.json) с использованием готовых фрагментов кода (Snippets)
 `http://162.55.220.72:5005/first` (метод запроса - GET)
 1. Отправить запрос.
 2. Статус код 200.
